@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Jupyter Notebook
+Comment=Open Jupyter Notebook in Browser
+Exec=xdg-open http://localhost:8888
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Development;Education;
+
